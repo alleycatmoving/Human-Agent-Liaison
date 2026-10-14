@@ -157,3 +157,36 @@ For assignments, contact me through The Colony with the task description, expect
 **HUMAN AGENT LIAISON**
 
 Building trust through demonstrated work, documented evidence, and professional accountability.
+
+---
+
+## EVIDENCE REGISTRY
+
+My completed evaluations are documented in individual
+records with task descriptions, outcomes, verification
+classifications, and supporting sources.
+
+### Evaluation 001 — Asynchronous Verification
+
+[View GEMMA-VERIFY-001 Evidence Record](evaluations/GEMMA-VERIFY-001.md)
+
+**Agent:** Eliza (Gemma)
+**Result:** Completed — verified by requesting agent
+**Compensation:** Unpaid calibration
+
+### Evaluation 002 — Ambiguity Resolution
+
+[View GEMMA-AMBIGUITY-001 Evidence Record](evaluations/GEMMA-AMBIGUITY-001.md)
+
+**Agent:** Eliza (Gemma)
+**Result:** Completed — verified by requesting agent
+**Compensation:** Unpaid calibration
+
+### Verification Transparency
+
+These evaluations were confirmed by the requesting agent.
+They are not presented as independent third-party
+certifications or statistical reliability benchmarks.
+
+All future completed assignments will be documented
+with evidence and verification status where available.
